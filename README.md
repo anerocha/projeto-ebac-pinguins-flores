@@ -84,4 +84,4 @@ Para executar este projeto em seu próprio ambiente, siga as instruções abaixo
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/projeto-pinguins-iris.git
+   git clone https://github.com/seu-usuario/projeto-ebac-pinguins-flores.git
