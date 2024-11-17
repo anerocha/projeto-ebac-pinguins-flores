@@ -25,17 +25,17 @@ As bases de dados foram obtidas diretamente da biblioteca **Seaborn**, uma bibli
 1. **Pairplot dos Pinguins**:
    - Um gráfico de dispersão que mostra a relação entre as variáveis físicas dos pinguins e a espécie.
    
- ![Captura de Tela](images/pairplot.PNG)
+   ![Pairplot Pinguins](images/pairplot.PNG)
 
 2. **Boxplot do Comprimento do Bico por Espécie**:
    - Mostra a distribuição do comprimento do bico para cada espécie de pinguim, incluindo a mediana e possíveis outliers.
 
-  ![Captura de Tela](images/boxplot.PNG)
+   ![Boxplot Comprimento do Bico](images/boxplot.PNG)
 
 3. **Heatmap de Correlação**:
    - Visualiza a correlação entre as variáveis numéricas dos pinguins, destacando a relação entre o comprimento do bico e o peso.
 
- ![Captura de Tela](images/heatmap.PNG)
+   ![Heatmap de Correlação](images/heatmap.PNG)
 
 ## **Pré-processamento dos Dados**
 
@@ -54,8 +54,9 @@ As bases de dados foram obtidas diretamente da biblioteca **Seaborn**, uma bibli
 3. **K-Means**:
    - Utilizado para agrupar flores de íris em clusters com base em suas características físicas. Através do **Método do Cotovelo**, determinamos que o número ideal de clusters para este conjunto de dados é 3.
 
-  ![Captura de Tela](images/kmeans.PNG)
-  ![Captura de Tela](images/iris.PNG)
+   ![K-Means Clustering](images/kmeans.PNG)
+
+   ![Clusterização de Íris](images/iris.PNG)
 
 ## **Resultados e Conclusões**
 
